@@ -1,5 +1,12 @@
 # Byte-compiled / optimized / DLL files
+
+project*
+Kaggle_submissions/
 __pycache__/
+.DS_Store
+sample_sub_reg.csv
+models_sub_reg.csv
+
 *.py[cod]
 *$py.class
 
